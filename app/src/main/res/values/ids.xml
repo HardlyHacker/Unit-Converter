@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="dollar" type="id">dollar</item>
+    <item name="rupees" type="id">rupees</item>
+    <item name="gbp" type="id" />
+    <item name="euro" type="id" />
+    <item name="chy" type="id" />
+    <item name="jpy" type="id" />
+    <item name="dollarf" type="id" />
+    <item name="rupeesf" type="id" />
+    <item name="jpyf" type="id" />
+    <item name="chyf" type="id" />
+    <item name="eurof" type="id" />
+    <item name="gbpf" type="id" />
+</resources>
